@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|c:\\users\\ahmed\\onedrive\\documents\\backend development\\clinic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|c:\\users\\ahmed\\onedrive\\documents\\backend development\\clinic\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|solutionrelative:controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|c:\\users\\ahmed\\onedrive\\documents\\backend development\\clinic\\controllers\\specializationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|solutionrelative:controllers\\specializationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|c:\\users\\ahmed\\onedrive\\documents\\backend development\\clinic\\repositories\\irepos\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|solutionrelative:repositories\\irepos\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|c:\\users\\ahmed\\onedrive\\documents\\backend development\\clinic\\dto\\specializationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|solutionrelative:dto\\specializationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|c:\\users\\ahmed\\onedrive\\documents\\backend development\\clinic\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|solutionrelative:controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|c:\\users\\ahmed\\onedrive\\documents\\backend development\\clinic\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|solutionrelative:controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|c:\\users\\ahmed\\onedrive\\documents\\backend development\\clinic\\repositories\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|solutionrelative:repositories\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|c:\\users\\ahmed\\onedrive\\documents\\backend development\\clinic\\repositories\\irepos\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|solutionrelative:repositories\\irepos\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|c:\\users\\ahmed\\onedrive\\documents\\backend development\\clinic\\controllers\\doctoravailabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|solutionrelative:controllers\\doctoravailabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|c:\\users\\ahmed\\onedrive\\documents\\backend development\\clinic\\dto\\attendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|solutionrelative:dto\\attendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|c:\\users\\ahmed\\onedrive\\documents\\backend development\\clinic\\utility\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|solutionrelative:utility\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|c:\\users\\ahmed\\onedrive\\documents\\backend development\\clinic\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|solutionrelative:controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|c:\\users\\ahmed\\onedrive\\documents\\backend development\\clinic\\controllers\\applicationusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|solutionrelative:controllers\\applicationusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|c:\\users\\ahmed\\onedrive\\documents\\backend development\\clinic\\dto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|solutionrelative:dto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|c:\\users\\ahmed\\onedrive\\documents\\backend development\\clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|c:\\users\\ahmed\\onedrive\\documents\\backend development\\clinic\\clinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3B7D23CA-8B51-46B1-A64B-B83DFEF35ECC}|Clinic.csproj|solutionrelative:clinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Repositories\\IRepos\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepos\\IPatientRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Repositories\\IRepos\\IPatientRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepos\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:15:01.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpecializationController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Controllers\\SpecializationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SpecializationController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Controllers\\SpecializationController.cs",
+              "RelativeToolTip": "Controllers\\SpecializationController.cs",
+              "ViewState": "AgIAAAkAAABgzMzMzMw3wB0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:09:22.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpecializationDto.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\DTO\\SpecializationDto.cs",
+              "RelativeDocumentMoniker": "DTO\\SpecializationDto.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\DTO\\SpecializationDto.cs",
+              "RelativeToolTip": "DTO\\SpecializationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:03:52.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:23:08.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAttendanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Repositories\\IRepos\\IAttendanceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepos\\IAttendanceRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Repositories\\IRepos\\IAttendanceRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepos\\IAttendanceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:11:37.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttendanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Repositories\\AttendanceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AttendanceRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Repositories\\AttendanceRepository.cs",
+              "RelativeToolTip": "Repositories\\AttendanceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:10:03.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AttendanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\DTO\\AttendanceDto.cs",
+              "RelativeDocumentMoniker": "DTO\\AttendanceDto.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\DTO\\AttendanceDto.cs",
+              "RelativeToolTip": "DTO\\AttendanceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:18:53.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAUAAABAMjMzM3MvwBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:58:06.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\DTO\\Login.cs",
+              "RelativeDocumentMoniker": "DTO\\Login.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\DTO\\Login.cs",
+              "RelativeToolTip": "DTO\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:02:49.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:35:02.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAABUAAAAAxczMzMwEwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:34:16.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUserController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Controllers\\ApplicationUserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationUserController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Controllers\\ApplicationUserController.cs",
+              "RelativeToolTip": "Controllers\\ApplicationUserController.cs",
+              "ViewState": "AgIAABsAAABALzMzMzMZwD8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:21:01.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T13:55:28.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:52:57.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Utility\\Auth.cs",
+              "RelativeDocumentMoniker": "Utility\\Auth.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Utility\\Auth.cs",
+              "RelativeToolTip": "Utility\\Auth.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABYPRAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:53:38.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Clinic.csproj",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Clinic.csproj",
+              "RelativeDocumentMoniker": "Clinic.csproj",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Clinic.csproj",
+              "RelativeToolTip": "Clinic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T11:57:42.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorAvailabilityController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Controllers\\DoctorAvailabilityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorAvailabilityController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\Backend Development\\Clinic\\Controllers\\DoctorAvailabilityController.cs",
+              "RelativeToolTip": "Controllers\\DoctorAvailabilityController.cs",
+              "ViewState": "AgIAABIAAACAlZmZmZkdwBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:57:38.096Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
